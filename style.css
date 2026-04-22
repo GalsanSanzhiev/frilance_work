@@ -1052,6 +1052,10 @@
   }
 
   /* Get Started */
+
+  .getStarted {
+    width: 420px;
+}
   .getStarted_title {
     margin-left: 20px;
     text-align: center;
@@ -1118,7 +1122,7 @@
   .enhance_img {
     position: absolute;
     max-width: 260px;
-    bottom: -236px;
+    bottom: -190px;
     right: 0px;
   }
 
@@ -1176,10 +1180,7 @@
   }
 
   .blur_phones {
-      bottom: -1px;
-      right: -36px;
-      z-index: 3;
-      max-width: 794px;
+      display:none
   }
 
   /* Why */
