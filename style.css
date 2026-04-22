@@ -1117,7 +1117,7 @@
 
   .enhance_img {
     position: absolute;
-    max-width: 325px;
+    max-width: 260px;
     bottom: -236px;
     right: 0px;
   }
@@ -1176,8 +1176,10 @@
   }
 
   .blur_phones {
-    bottom: 21px;
-    z-index: 3;
+      bottom: -1px;
+      right: -36px;
+      z-index: 3;
+      max-width: 794px;
   }
 
   /* Why */
