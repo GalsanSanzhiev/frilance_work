@@ -956,6 +956,7 @@
   .main_graph {
     max-width: 365px;
     margin-bottom: 60px;
+    padding-left: 20px
   }
 
   .main_graph2 {
