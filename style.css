@@ -1054,7 +1054,7 @@
   /* Get Started */
 
   .getStarted {
-    width: 420px;
+    width: 100%;
 }
   .getStarted_title {
     margin-left: 20px;
@@ -1122,7 +1122,7 @@
   .enhance_img {
     position: absolute;
     max-width: 260px;
-    bottom: -190px;
+    bottom: -200px;
     right: 0px;
   }
 
