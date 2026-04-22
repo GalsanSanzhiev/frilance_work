@@ -830,7 +830,7 @@
 
 @media (max-width: 400px) {
   .nav_menu {
-    padding: 15px 20px;
+    padding: 15px 5px;
     margin-left: 0;
     align-items: center;
     gap: 10px;
@@ -954,9 +954,9 @@
     height: auto;
   }
   .main_graph {
-    max-width: 365px;
+    max-width: 350px;
     margin-bottom: 60px;
-    padding-left: 20px
+    padding-left: 30px
   }
 
   .main_graph2 {
